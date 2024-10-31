@@ -9,8 +9,9 @@ flask-sqlalchemy = "*"
 python-dotenv = "*"
 flask-cors = "*"
 psycopg2-binary = "*"
+zappa = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.13"
+python_version = "3.11"

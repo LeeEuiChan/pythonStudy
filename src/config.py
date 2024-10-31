@@ -72,6 +72,11 @@ db = SQLAlchemy(app)
 ## SQLAlchemy : JPA같은 느낌
 ## psycopg2 : 가장 자주사용된다고함
 
+# 1. pyenv로 Python 버전 설정
+# pyenv install 3.11.9
+# pyenv local 3.11.9
+
+
 # cd pythonWebBasic
 # pip install pipenv 
 # pipenv --python 3.11 Python 3.11로 가상 환경 생성:
